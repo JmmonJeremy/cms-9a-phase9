@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './document-edit.css'
 })
 export class DocumentEdit {
-
+onCancel() {}
 }
